@@ -1,1 +1,1 @@
-# This is my very first project! A test of skills acquired so far. It is pretty sraight forward. You enter data regarding your schedule and it plots you a pie chart back as well as it calculates your projected income per week, month, year.
+# This is my very first project! A test of skills acquired so far. It is pretty straight forward. You enter data regarding your schedule and it plots you a pie chart back as well as it calculates your projected income per week, month, year.
